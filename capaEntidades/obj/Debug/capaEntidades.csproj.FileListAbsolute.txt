@@ -1,0 +1,18 @@
+C:\Users\Claudio\Desktop\VirginioGomez\Construccion de Software\Sistema Cafeteria\SistemaCafeteria\capaEntidades\bin\Debug\capaEntidades.dll
+C:\Users\Claudio\Desktop\VirginioGomez\Construccion de Software\Sistema Cafeteria\SistemaCafeteria\capaEntidades\bin\Debug\capaEntidades.pdb
+C:\Users\Claudio\Desktop\VirginioGomez\Construccion de Software\Sistema Cafeteria\SistemaCafeteria\capaEntidades\obj\Debug\capaEntidades.csprojAssemblyReference.cache
+C:\Users\Claudio\Desktop\VirginioGomez\Construccion de Software\Sistema Cafeteria\SistemaCafeteria\capaEntidades\obj\Debug\capaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Desktop\VirginioGomez\Construccion de Software\Sistema Cafeteria\SistemaCafeteria\capaEntidades\obj\Debug\capaEntidades.dll
+C:\Users\Claudio\Desktop\VirginioGomez\Construccion de Software\Sistema Cafeteria\SistemaCafeteria\capaEntidades\obj\Debug\capaEntidades.pdb
+C:\Users\david\Desktop\cafeteria\sistemaCafeteria-main\capaEntidades\bin\Debug\capaEntidades.dll
+C:\Users\david\Desktop\cafeteria\sistemaCafeteria-main\capaEntidades\bin\Debug\capaEntidades.pdb
+C:\Users\david\Desktop\cafeteria\sistemaCafeteria-main\capaEntidades\obj\Debug\capaEntidades.csprojAssemblyReference.cache
+C:\Users\david\Desktop\cafeteria\sistemaCafeteria-main\capaEntidades\obj\Debug\capaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\cafeteria\sistemaCafeteria-main\capaEntidades\obj\Debug\capaEntidades.dll
+C:\Users\david\Desktop\cafeteria\sistemaCafeteria-main\capaEntidades\obj\Debug\capaEntidades.pdb
+C:\Users\gusta\OneDrive\Escritorio\sistemaCafeteria-main\capaEntidades\bin\Debug\capaEntidades.dll
+C:\Users\gusta\OneDrive\Escritorio\sistemaCafeteria-main\capaEntidades\bin\Debug\capaEntidades.pdb
+C:\Users\gusta\OneDrive\Escritorio\sistemaCafeteria-main\capaEntidades\obj\Debug\capaEntidades.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Escritorio\sistemaCafeteria-main\capaEntidades\obj\Debug\capaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Escritorio\sistemaCafeteria-main\capaEntidades\obj\Debug\capaEntidades.dll
+C:\Users\gusta\OneDrive\Escritorio\sistemaCafeteria-main\capaEntidades\obj\Debug\capaEntidades.pdb
